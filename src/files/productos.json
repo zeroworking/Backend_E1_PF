@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2",
+    "title": "p9",
+    "description": "p5_descripcion",
+    "code": "p5_code",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "p5_categoria",
+    "thumbnails": [
+      "p5_imagen1.jpg",
+      "p4_imagen2.jpg"
+    ]
+  },
+  {
+    "id": "lsjlvxlk7o5gvkwytss",
+    "title": "p9",
+    "description": "p5_descripcion",
+    "code": "p5_code",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "p5_categoria",
+    "thumbnails": [
+      "p5_imagen1.jpg",
+      "p4_imagen2.jpg"
+    ]
+  },
+  {
+    "id": "lsjlxg2fy94unr9dbp",
+    "title": "p9",
+    "description": "p5_descripcion",
+    "code": "p5_code",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "p5_categoria",
+    "thumbnails": [
+      "p5_imagen1.jpg",
+      "p4_imagen2.jpg"
+    ]
+  },
+  {
+    "id": "lsjn6g42h1zxenvdhl5",
+    "title": "p9",
+    "description": "p5_descripcion",
+    "code": "p5_code",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "p5_categoria",
+    "thumbnails": [
+      "p5_imagen1.jpg",
+      "p4_imagen2.jpg"
+    ]
+  }
+]
